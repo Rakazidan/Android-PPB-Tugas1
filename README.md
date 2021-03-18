@@ -9,4 +9,4 @@ Tahapan Pengerjaan:
 5. Build Simple User Interface
 6. Start Another Activity
 
-![picture alt](https://github.com/Rakazidan/Android-PPB-Tugas1/blob/main/screenshot/tampilan_AVD_1.png/200x150)
+![picture alt](https://raw.githubusercontent.com/Rakazidan/Android-PPB-Tugas1/main/screenshot/tampilan_AVD_1.png/200x150)
