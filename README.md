@@ -10,4 +10,4 @@ Tahapan Pengerjaan:
 6. Start Another Activity
 
 Tampilan AVD
-![alt text](https://github.com/Rakazidan/Android-PPB-Tugas1/blob/main/screenshot/tampilan_AVD_1.png)
+![](https://github.com/Rakazidan/Android-PPB-Tugas1/blob/main/screenshot/tampilan_AVD_1.pngs=200)
